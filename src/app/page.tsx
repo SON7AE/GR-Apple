@@ -127,7 +127,7 @@ function Home() {
                     <span className="text-[22px] font-bold">하나의 요금으로 부담 없이.</span>
                 </div>
                 <div className="">
-                    <Button className="rouned-full">무료 체험하기</Button>
+                    <Button className="rouned-full hover:bg-white">무료 체험하기</Button>
                     <Button variant={"ghost"} className="">
                         더 알아보기
                         <ChevronRight className="w-4 h-4" />
