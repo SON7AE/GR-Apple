@@ -65,8 +65,8 @@ function Home() {
                                 <span className="text-4xl font-extrabold text-white">스트리밍을 모든 화면에서.</span>
                             </div>
                             <div className="flex items-center gap-2">
-                                <Button className="px-6 py-5 rounded-full bg-white text-zinc-900">무료 체험하기</Button>
-                                <Button className="px-6 py-5 rounded-full bg-transparent border-[1px]">더 알아보기</Button>
+                                <Button className="px-6 py-5 rounded-full bg-white hover:bg-white text-zinc-900">무료 체험하기</Button>
+                                <Button className="px-6 py-5 rounded-full bg-transparent hover:bg-transparent border-[1px]">더 알아보기</Button>
                             </div>
                         </div>
                     </div>
@@ -112,8 +112,8 @@ function Home() {
                                 <span className="text-4xl font-extrabold text-white">공간 음향으로.</span>
                             </div>
                             <div className="flex items-center gap-2">
-                                <Button className="px-6 py-5 rounded-full bg-white text-zinc-900">무료 체험하기</Button>
-                                <Button className="px-6 py-5 rounded-full bg-transparent border-[1px]">더 알아보기</Button>
+                                <Button className="px-6 py-5 rounded-full bg-white hover:bg-white text-zinc-900">무료 체험하기</Button>
+                                <Button className="px-6 py-5 rounded-full bg-transparent hover:bg-transparent border-[1px]">더 알아보기</Button>
                             </div>
                         </div>
                     </div>
@@ -127,8 +127,8 @@ function Home() {
                     <span className="text-[22px] font-bold">하나의 요금으로 부담 없이.</span>
                 </div>
                 <div className="">
-                    <Button className="rouned-full hover:bg-white">무료 체험하기</Button>
-                    <Button variant={"ghost"} className="">
+                    <Button className="rouned-full">무료 체험하기</Button>
+                    <Button variant={"ghost"}>
                         더 알아보기
                         <ChevronRight className="w-4 h-4" />
                     </Button>
